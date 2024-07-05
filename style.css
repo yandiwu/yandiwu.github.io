@@ -66,14 +66,14 @@
     font-weight: bold;
     margin-top:50px;
     margin-bottom:13px;
-    color: red;
+    color: #0A509E;
     text-decoration: none;
     text-align: center;
 }
 
 #menu a:hover
 {
-    color: #800000;
+    color: #303B61;
 }
 
 .footer {
