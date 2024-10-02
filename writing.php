@@ -21,6 +21,7 @@
     <<p1 style="padding-top: 50px; display: block;"><u>In Preparation</u></p1>>
     <p style="padding-top: 0px; display: block;"><u>Isospectral Hyperbolic Surface Amalgams</u></p>
     <p1 style="padding-top: 20px; display: block;"><u>Publications and Preprints</u></p1>
+    <p style="padding-top: 0px; display: block;"><u>Subactions for Geodesic Flow on Locally CAT(-1) Spaces</u> (2023). <a href="https://arxiv.org/abs/2410.00642">Preprint</a> (comments welcome) </p>
     <p style="padding-top: 0px; display: block;"><u>Marked Length Spectrum Rigidity for Surface Amalgams</u> (2023). <a href="https://arxiv.org/abs/2310.09968">Preprint</a> (comments welcome) </p>
     <p style="padding-top: 0px; display: block;"><u>A topologically rigid set of quotients of the Davis complex</u> (2023, Geometriae Dedicata). <a href="https://link.springer.com/article/10.1007/s10711-023-00819-6">Article</a> and <a href="https://www.youtube.com/watch?v=bjhgW6fFzPQ">Talk</a></ul></p>.
     <p1 style="padding-top: 20px; display: block;"><u>Other</u></p1>
